@@ -26,6 +26,8 @@ $$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
 
+![Example of quadratic Graph](quadratic_graph_dynamic.png)
+
 ### Cases:
 1. **Two real roots**: When the discriminant (\(b^2 - 4ac\)) is positive.
 2. **One real root**: When the discriminant is zero.
